@@ -136,53 +136,53 @@ printf("You have entered a wrong password\nEnter your password again\n");
 		
 	}
 	case 2: {
-            	printf("PLEASE SELECT ANY SCHEME OR PROGRAM FOR MORE INFORMATION\n\n");
-				printf("1.Pradhan Mantri Krishi Sinchai Yojana\n");
-				printf("2.PM Kisan Maan Dhan Yojana\n");
-				printf("3.Pradhan Mantri Kisan Samman Nidhi\n");
-				printf("4.Pradhan Mantri Fasal Bima Yojana\n");
-				printf("5.National Agriculture Infra Financing Facility\n");
-				printf("6.Kisan Credit Card\n\n");
+            	printf("\n\n");
+				printf("1.\n");
+				printf("2.\n");
+				printf("3.\n");
+				printf("4.\n");
+				printf("5.\n");
+				printf("6.\n\n");
 				int choice2;
 				choice2:
-		        printf("ENTER YOUR CHOICE for PROGRAM AND SCHEMES:");
+		        printf(":");
                 scanf("%d",&choice2);
   
                 
                 if(choice2==1)
                 {
                 	
-					printf("\nHar Khet ko Pani Prime Minister Krishi Sinchayee Yojana Government of India is committed to accord high priority to water conservation and its management.To this effect Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) has been formulated with the vision of extending the coverage of irrigation ‘Har Khet ko pani’ and improving water use efficiency ‘More crop per drop' in a focused manner with end to end solution on source creation, distribution, management, field application and extension activities. The Cabinet Committee on Economic Affairs chaired by Hon’ble Prime Minister has accorded approval of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) in its meeting held on 1st July, 2015.\n\n");
+					printf("\n\n\n");
 					goto a;
 				 }
 				  if(choice2==2)
                 {
                 	
-					printf("Har Khet ko Pani Prime Minister Krishi Sinchayee Yojana Government of India is committed to accord high priority to water conservation and its management.To this effect Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) has been formulated with the vision of extending the coverage of irrigation ‘Har Khet ko pani’ and improving water use efficiency ‘More crop per drop' in a focused manner with end to end solution on source creation, distribution, management, field application and extension activities. The Cabinet Committee on Economic Affairs chaired by Hon’ble Prime Minister has accorded approval of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) in its meeting held on 1st July, 2015.\n\n");
+					printf(".\n\n");
 					goto a;
 				 }
 				  if(choice2==3)
                 {
                 	
-					printf("Har Khet ko Pani Prime Minister Krishi Sinchayee Yojana Government of India is committed to accord high priority to water conservation and its management.To this effect Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) has been formulated with the vision of extending the coverage of irrigation ‘Har Khet ko pani’ and improving water use efficiency ‘More crop per drop' in a focused manner with end to end solution on source creation, distribution, management, field application and extension activities. The Cabinet Committee on Economic Affairs chaired by Hon’ble Prime Minister has accorded approval of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) in its meeting held on 1st July, 2015.\n\n");
+					printf("\n\n");
 					goto a;
 				 }
 				  if(choice2==4)
                 {
                 	
-					printf("Har Khet ko Pani Prime Minister Krishi Sinchayee Yojana Government of India is committed to accord high priority to water conservation and its management.To this effect Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) has been formulated with the vision of extending the coverage of irrigation ‘Har Khet ko pani’ and improving water use efficiency ‘More crop per drop' in a focused manner with end to end solution on source creation, distribution, management, field application and extension activities. The Cabinet Committee on Economic Affairs chaired by Hon’ble Prime Minister has accorded approval of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) in its meeting held on 1st July, 2015.\n\n");
+					printf("\n\n");
 					goto a;
 				 }
 				  if(choice2==5)
                 {
                 	
-					printf("Har Khet ko Pani Prime Minister Krishi Sinchayee Yojana Government of India is committed to accord high priority to water conservation and its management.To this effect Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) has been formulated with the vision of extending the coverage of irrigation ‘Har Khet ko pani’ and improving water use efficiency ‘More crop per drop' in a focused manner with end to end solution on source creation, distribution, management, field application and extension activities. The Cabinet Committee on Economic Affairs chaired by Hon’ble Prime Minister has accorded approval of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) in its meeting held on 1st July, 2015.\n\n");
+					printf(".\n\n");
 					goto a;
 				 }
 				  if(choice2==6)
                 {
                 	
-					printf("Har Khet ko Pani Prime Minister Krishi Sinchayee Yojana Government of India is committed to accord high priority to water conservation and its management.To this effect Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) has been formulated with the vision of extending the coverage of irrigation ‘Har Khet ko pani’ and improving water use efficiency ‘More crop per drop' in a focused manner with end to end solution on source creation, distribution, management, field application and extension activities. The Cabinet Committee on Economic Affairs chaired by Hon’ble Prime Minister has accorded approval of Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) in its meeting held on 1st July, 2015.\n\n");
+					printf("\n\n");
 					goto a;
 				 }
 				  else
